@@ -1,0 +1,16 @@
+.task-div {
+	display: block;
+	text-align: left;
+}
+
+.btn-remove {
+	font-size: 10px;
+	font-weight: bold;
+	border-radius: 60%;
+	color: red;
+	border-color: crimson;
+	background-color: white;
+}
+.btn-remove:hover {
+	cursor: pointer;
+}
